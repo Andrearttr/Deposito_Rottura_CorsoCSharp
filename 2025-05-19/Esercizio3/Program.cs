@@ -30,8 +30,8 @@ class Program
             }
         }
 
-        Console.WriteLine($"\n{persona1.ToString()}");
-        Console.WriteLine($"\n{persona2.ToString()}");
+        Console.WriteLine($"\n{persona1}");
+        Console.WriteLine($"\n{persona2}");
     }
 }
 
