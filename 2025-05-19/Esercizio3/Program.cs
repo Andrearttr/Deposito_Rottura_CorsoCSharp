@@ -30,8 +30,8 @@ class Program
             }
         }
 
-        Console.WriteLine($"\n{persona1.Nome} {persona1.Cognome} è nato/a nel {persona1.AnnoNascita}");
-        Console.WriteLine($"\n{persona2.Nome} {persona2.Cognome} è nato/a nel {persona2.AnnoNascita}");
+        Console.WriteLine($"\n{persona1.ToString()}");
+        Console.WriteLine($"\n{persona2.ToString()}");
     }
 }
 
@@ -46,5 +46,10 @@ class Persona
         Nome = nome;
         Cognome = cognome;
         AnnoNascita = annoNascita;
+    }
+
+    public override string ToString()
+    {
+        return $"Nome: {Nome}, Cognome: {Cognome}, Anno di nascita: {AnnoNascita}";
     }
 }
