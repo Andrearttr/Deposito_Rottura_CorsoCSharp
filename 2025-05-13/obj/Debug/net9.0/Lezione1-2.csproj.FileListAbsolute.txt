@@ -1,0 +1,14 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\bin\Debug\net9.0\Lezione1-2.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\bin\Debug\net9.0\Lezione1-2.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\bin\Debug\net9.0\Lezione1-2.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\bin\Debug\net9.0\Lezione1-2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\bin\Debug\net9.0\Lezione1-2.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\refint\Lezione1-2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\Lezione1-2.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\Introduzione\Lezione1-2\obj\Debug\net9.0\ref\Lezione1-2.dll
