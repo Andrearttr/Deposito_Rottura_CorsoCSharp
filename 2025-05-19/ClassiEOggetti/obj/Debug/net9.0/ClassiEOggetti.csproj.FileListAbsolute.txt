@@ -1,0 +1,14 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\bin\Debug\net9.0\ClassiEOggetti.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\bin\Debug\net9.0\ClassiEOggetti.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\bin\Debug\net9.0\ClassiEOggetti.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\bin\Debug\net9.0\ClassiEOggetti.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\bin\Debug\net9.0\ClassiEOggetti.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\refint\ClassiEOggetti.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ClassiEOggetti.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-19\ClassiEOggetti\obj\Debug\net9.0\ref\ClassiEOggetti.dll
