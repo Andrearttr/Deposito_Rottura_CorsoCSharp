@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio1", "Esercizio1\Es
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ereditarietà", "Ereditarietà\Ereditarietà.csproj", "{5F473992-FC5A-4493-8B2B-F45F2B4EE641}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio2", "Esercizio2\Esercizio2.csproj", "{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{5F473992-FC5A-4493-8B2B-F45F2B4EE641}.Release|x64.Build.0 = Release|Any CPU
 		{5F473992-FC5A-4493-8B2B-F45F2B4EE641}.Release|x86.ActiveCfg = Release|Any CPU
 		{5F473992-FC5A-4493-8B2B-F45F2B4EE641}.Release|x86.Build.0 = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|x64.Build.0 = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Debug|x86.Build.0 = Debug|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|x64.ActiveCfg = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|x64.Build.0 = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|x86.ActiveCfg = Release|Any CPU
+		{8DEC075F-9F34-42C3-ABE1-4E4B6373819F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
