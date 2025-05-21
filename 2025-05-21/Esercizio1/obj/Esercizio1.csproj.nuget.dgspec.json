@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-21\\Esercizio1\\Esercizio1.csproj": {}
+    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Esercizio1\\Esercizio1.csproj": {}
   },
   "projects": {
-    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-21\\Esercizio1\\Esercizio1.csproj": {
+    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Esercizio1\\Esercizio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-21\\Esercizio1\\Esercizio1.csproj",
+        "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Esercizio1\\Esercizio1.csproj",
         "projectName": "Esercizio1",
-        "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-21\\Esercizio1\\Esercizio1.csproj",
+        "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Esercizio1\\Esercizio1.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-21\\Esercizio1\\obj\\",
+        "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Esercizio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

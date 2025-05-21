@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Ereditarietà\\Ereditarietà.csproj": {}
+    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-19\\Operazioni\\Operazioni.csproj": {}
   },
   "projects": {
-    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Ereditarietà\\Ereditarietà.csproj": {
+    "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-19\\Operazioni\\Operazioni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Ereditarietà\\Ereditarietà.csproj",
-        "projectName": "Ereditarietà",
-        "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Ereditarietà\\Ereditarietà.csproj",
+        "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-19\\Operazioni\\Operazioni.csproj",
+        "projectName": "Operazioni",
+        "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-19\\Operazioni\\Operazioni.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-21\\Ereditarietà\\obj\\",
+        "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-19\\Operazioni\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",

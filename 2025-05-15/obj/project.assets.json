@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-15\\2025-05-15.csproj",
+      "projectUniqueName": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-15\\2025-05-15.csproj",
       "projectName": "2025-05-15",
-      "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-15\\2025-05-15.csproj",
+      "projectPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-15\\2025-05-15.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Progetti\\2025-05-15\\obj\\",
+      "outputPath": "C:\\DesktopFiles\\Files\\Formazione\\ItConsulting C#\\Deposito_Rottura_CorsoCSharp\\2025-05-15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
