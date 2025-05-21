@@ -4,9 +4,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        List<Film> raccolta = new List<Film>();
+        List<Film> raccolta = new List<Film>(); //crea lista film
 
-        while (true)
+        while (true) //aggiunta dei primi 3 film
         {
             AggiungiFilm(out string titolo, out string regista, out int anno, out string genere);
             raccolta.Add(new Film(titolo, regista, anno, genere));
@@ -23,18 +23,18 @@ class Program
         }
 
         bool exitMenu = false;
-        while (!exitMenu)
+        while (!exitMenu) //menù delle azioni
         {
             Console.WriteLine("\nCosa vuoi fare?\n[1] Aggiungi film\n[2] Rimuovi film\n[3] Cerca film\n[4] Mostra raccolta\n[5] Esci\n");
             int azione = Input.Int(1, 5);
             switch (azione)
             {
-                case 1:
-                    AggiungiFilm(out string titolo, out string regista, out int anno, out string genere);
+                case 1: 
+                    AggiungiFilm(out string titolo, out string regista, out int anno, out string genere); //menù aggiunta film
                     raccolta.Add(new Film(titolo, regista, anno, genere));
                     break;
 
-                case 2:
+                case 2: //rimozione film
                     Console.Write("\nInserisci il titolo del film da rimuovere: ");
                     string removefilm = Input.String().ToLower();
                     foreach (Film film in raccolta)
@@ -48,13 +48,13 @@ class Program
                     break;
 
                 case 3:
-                    Console.Write("\nChe cosa vuoi cercare?\n[1] Titolo\n[2] Regista\n[3] Anno\n[4] Genere");
+                    Console.Write("\nChe cosa vuoi cercare?\n[1] Titolo\n[2] Regista\n[3] Anno\n[4] Genere"); //menù ricerca film
                     int azioneCerca = Input.Int(1, 4);
-                    Cerca(raccolta, azioneCerca);
+                    Cerca(raccolta, azioneCerca); //funzione di ricerca
                     break;
 
                 case 4:
-                    Console.WriteLine("\nFilm nella raccolta:");
+                    Console.WriteLine("\nFilm nella raccolta:"); //stampa tutti gli elementi di raccolta
                     foreach (Film film in raccolta)
                     {
                         film.StampaInfo();
@@ -69,11 +69,11 @@ class Program
         }
     }
 
-    static void Cerca(List<Film> raccolta, int tipo)
+    static void Cerca(List<Film> raccolta, int tipo) //cerca in raccolta in base a tipo
     {
         switch (tipo)
         {
-            case 1:
+            case 1: //titolo
                 Console.Write("\nChe titolo vuoi cercare?: ");
                 string titolo = Input.String();
                 Console.WriteLine($"\nFilm con titolo {titolo}:");
@@ -87,7 +87,7 @@ class Program
                 }
                 break;
 
-            case 2:
+            case 2: //regista
                 Console.Write("\nChe regista vuoi cercare?: ");
                 string regista = Input.String();
                 Console.WriteLine($"\nFilm con regista {regista}:");
@@ -101,7 +101,7 @@ class Program
                 }
                 break;
 
-            case 3:
+            case 3: //anno
                 Console.Write("\nChe anno vuoi cercare?: ");
                 int anno = Input.Int();
                 Console.WriteLine($"\nFilm con regista {anno}:");
@@ -115,7 +115,7 @@ class Program
                 }
                 break;
 
-            case 4:
+            case 4: //genere
                 Console.Write("\nChe genere vuoi cercare?: ");
                 string genere = Input.String();
                 Console.WriteLine($"\nFilm con genere {genere}:");
@@ -132,7 +132,7 @@ class Program
     }
 
 
-    static void AggiungiFilm(out string titolo, out string regista, out int anno, out string genere)
+    static void AggiungiFilm(out string titolo, out string regista, out int anno, out string genere) //funzione aggiunta film
     {
         Console.Write("\nAggiunta nuovo film\nAggiungi il titolo: ");
         titolo = Input.String();
