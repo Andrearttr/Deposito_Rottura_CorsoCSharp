@@ -1,0 +1,14 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\bin\Debug\net9.0\Ereditarietà.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\bin\Debug\net9.0\Ereditarietà.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\bin\Debug\net9.0\Ereditarietà.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\bin\Debug\net9.0\Ereditarietà.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\bin\Debug\net9.0\Ereditarietà.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\refint\Ereditarietà.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\Ereditarietà.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Progetti\2025-05-21\Ereditarietà\obj\Debug\net9.0\ref\Ereditarietà.dll
