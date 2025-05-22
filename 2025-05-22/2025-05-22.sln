@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incapsulamento", "Incapsula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio1Incaps", "Esercizio1Incaps\Esercizio1Incaps.csproj", "{6713A3DC-2483-4D74-9756-B05674184C0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio2Incaps", "Esercizio2Incaps\Esercizio2Incaps.csproj", "{91D3CACA-DEFF-489B-9533-9660E4C72C2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{6713A3DC-2483-4D74-9756-B05674184C0E}.Release|x64.Build.0 = Release|Any CPU
 		{6713A3DC-2483-4D74-9756-B05674184C0E}.Release|x86.ActiveCfg = Release|Any CPU
 		{6713A3DC-2483-4D74-9756-B05674184C0E}.Release|x86.Build.0 = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|x64.Build.0 = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Debug|x86.Build.0 = Debug|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|x64.ActiveCfg = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|x64.Build.0 = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|x86.ActiveCfg = Release|Any CPU
+		{91D3CACA-DEFF-489B-9533-9660E4C72C2E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

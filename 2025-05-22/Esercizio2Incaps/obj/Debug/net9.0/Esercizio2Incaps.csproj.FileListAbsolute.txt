@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\bin\Debug\net9.0\Esercizio2Incaps.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\bin\Debug\net9.0\Esercizio2Incaps.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\bin\Debug\net9.0\Esercizio2Incaps.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\bin\Debug\net9.0\Esercizio2Incaps.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\bin\Debug\net9.0\Esercizio2Incaps.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\refint\Esercizio2Incaps.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\Esercizio2Incaps.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-22\Esercizio2Incaps\obj\Debug\net9.0\ref\Esercizio2Incaps.dll
