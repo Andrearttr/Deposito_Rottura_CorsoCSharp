@@ -48,7 +48,7 @@ public class Fante : Soldato
 
     public override void Descrizione()
     {
-        Console.WriteLine($"{Grado} {Nome}, anni di servizio: {AnniServizio}, arma: {Arma}");
+        Console.WriteLine($"Nome: {Nome}, grado: {Grado}, anni di servizio: {AnniServizio}, arma: {Arma}");
     }
 }
 
@@ -64,7 +64,7 @@ public class Artigliere : Soldato
 
     public override void Descrizione()
     {
-        Console.WriteLine($"{Grado} {Nome}, anni di servizio: {AnniServizio}, calibro: {Calibro}");
+        Console.WriteLine($"Nome: {Nome}, grado: {Grado}, anni di servizio: {AnniServizio}, calibro: {Calibro}");
     }
 }
 
