@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\bin\Debug\net9.0\Esercizio2Operatore.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\bin\Debug\net9.0\Esercizio2Operatore.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\bin\Debug\net9.0\Esercizio2Operatore.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\bin\Debug\net9.0\Esercizio2Operatore.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\bin\Debug\net9.0\Esercizio2Operatore.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\refint\Esercizio2Operatore.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\Esercizio2Operatore.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio2Operatore\obj\Debug\net9.0\ref\Esercizio2Operatore.dll

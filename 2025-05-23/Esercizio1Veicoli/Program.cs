@@ -99,7 +99,7 @@ public class Program
         Console.Write("Inserire il budget: ");
         int budget = Input.Int();
 
-        while (!exit)
+        while (!exit)   //menu
         {
             Console.WriteLine($"\nBudget: {budget}");
             Console.WriteLine("\nScegli l'azione:");
@@ -119,30 +119,30 @@ public class Program
                     break;
 
                 case 1:
-                    Console.Write("\nInserisci la targa: ");
+                    Console.Write("\nInserisci la targa: ");    //aggiungi auto
                     string targa = Input.String();
                     veicoli.Add(new Auto(targa));
                     break;
 
                 case 2:
-                    Console.Write("\nInserisci la targa: ");
+                    Console.Write("\nInserisci la targa: ");    //aggiungi moto
                     targa = Input.String();
                     veicoli.Add(new Moto(targa));
                     break;
 
                 case 3:
-                    Console.Write("\nInserisci la targa: ");
+                    Console.Write("\nInserisci la targa: "); //aggiungi camion
                     targa = Input.String();
                     veicoli.Add(new Camion(targa));
                     break;
 
                 case 4:
-                    Console.Write("\nInserisci la targa: ");
+                    Console.Write("\nInserisci la targa: ");    //cerca veicolo per targa
                     targa = Input.String();
-                    Console.Write("Vuoi anche cambiare la targa? (1: si, 2: no): ");
+                    Console.Write("Vuoi anche cambiare la targa? (1: si, 2: no): ");    //opzione inserimento nuova targa
                     int cambioTarga = Input.Int(1, 2);
 
-                    if (cambioTarga == 1)
+                    if (cambioTarga == 1)   //ripara e cambia targa
                     {
                         Console.Write("Inserisci la nuova targa: ");
                         string newTarga = Input.String();
@@ -163,7 +163,7 @@ public class Program
                             }
                         }
                     }
-                    else if (cambioTarga == 2)
+                    else if (cambioTarga == 2)  //ripara
                     {
                         foreach (Veicolo v in veicoli)
                         {
@@ -185,7 +185,7 @@ public class Program
                     break;
 
                 case 5:
-                    Console.WriteLine("\nVeicoli: ");
+                    Console.WriteLine("\nVeicoli: ");   //stampa lista veicoli
                     foreach (Veicolo v in veicoli)
                     {
                         Console.WriteLine($"{v.GetType()} targa {v.Targa}");
