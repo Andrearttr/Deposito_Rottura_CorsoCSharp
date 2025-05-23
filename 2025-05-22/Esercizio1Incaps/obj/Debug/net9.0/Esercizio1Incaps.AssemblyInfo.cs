@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esercizio1Incaps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eda7adafac41e9015cbf7c58942f1d1e78466e3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c832fc9ef5222e2af0c09d586b3226f51b79e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esercizio1Incaps")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esercizio1Incaps")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

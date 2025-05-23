@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\bin\Debug\net9.0\Esercizio1Veicoli.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\bin\Debug\net9.0\Esercizio1Veicoli.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\bin\Debug\net9.0\Esercizio1Veicoli.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\bin\Debug\net9.0\Esercizio1Veicoli.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\bin\Debug\net9.0\Esercizio1Veicoli.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\refint\Esercizio1Veicoli.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\Esercizio1Veicoli.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Esercizio1Veicoli\obj\Debug\net9.0\ref\Esercizio1Veicoli.dll

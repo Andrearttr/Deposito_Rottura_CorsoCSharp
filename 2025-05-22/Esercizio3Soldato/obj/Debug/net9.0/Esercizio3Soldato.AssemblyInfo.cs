@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Esercizio3Soldato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74fb68f351794141a9d4acdae191dc878e748865")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c832fc9ef5222e2af0c09d586b3226f51b79e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Esercizio3Soldato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Esercizio3Soldato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

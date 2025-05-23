@@ -42,7 +42,7 @@ public class Program
             animale.FaiVerso();
         }
 
-        Animale a = new Gatto();
+        Animale a = new Cane();
         if (a is Cane)
         {
             ((Cane)a).FaiVerso();

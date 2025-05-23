@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\bin\Debug\net9.0\Overloading.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\bin\Debug\net9.0\Overloading.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\bin\Debug\net9.0\Overloading.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\bin\Debug\net9.0\Overloading.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\bin\Debug\net9.0\Overloading.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\refint\Overloading.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\Overloading.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Overloading\obj\Debug\net9.0\ref\Overloading.dll
