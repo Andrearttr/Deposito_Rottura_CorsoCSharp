@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\bin\Debug\net9.0\Test2.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\bin\Debug\net9.0\Test2.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\bin\Debug\net9.0\Test2.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\bin\Debug\net9.0\Test2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\bin\Debug\net9.0\Test2.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\refint\Test2.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\Test2.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-23\Test2\obj\Debug\net9.0\ref\Test2.dll
