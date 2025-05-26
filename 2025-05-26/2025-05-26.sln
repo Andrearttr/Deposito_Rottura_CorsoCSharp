@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Astrazione", "Astrazione\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio1Astra", "Esercizio1Astra\Esercizio1Astra.csproj", "{88B0827C-6F33-4AD7-A15A-22C511A7499F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio2Astra", "Esercizio2Astra\Esercizio2Astra.csproj", "{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{88B0827C-6F33-4AD7-A15A-22C511A7499F}.Release|x64.Build.0 = Release|Any CPU
 		{88B0827C-6F33-4AD7-A15A-22C511A7499F}.Release|x86.ActiveCfg = Release|Any CPU
 		{88B0827C-6F33-4AD7-A15A-22C511A7499F}.Release|x86.Build.0 = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|x64.Build.0 = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Debug|x86.Build.0 = Debug|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|x64.ActiveCfg = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|x64.Build.0 = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|x86.ActiveCfg = Release|Any CPU
+		{8C4C68FF-260A-42BA-9157-EFF1E9819F7D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

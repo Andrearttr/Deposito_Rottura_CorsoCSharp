@@ -1,0 +1,15 @@
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\bin\Debug\net9.0\Esercizio2Astra.exe
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\bin\Debug\net9.0\Esercizio2Astra.deps.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\bin\Debug\net9.0\Esercizio2Astra.runtimeconfig.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\bin\Debug\net9.0\Esercizio2Astra.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\bin\Debug\net9.0\Esercizio2Astra.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.AssemblyInfoInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.AssemblyInfo.cs
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.csproj.CoreCompileInputs.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.sourcelink.json
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\refint\Esercizio2Astra.dll
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.pdb
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\Esercizio2Astra.genruntimeconfig.cache
+C:\DesktopFiles\Files\Formazione\ItConsulting C#\Deposito_Rottura_CorsoCSharp\2025-05-26\Esercizio2Astra\obj\Debug\net9.0\ref\Esercizio2Astra.dll
