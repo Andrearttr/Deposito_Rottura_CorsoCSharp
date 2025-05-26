@@ -116,6 +116,7 @@ public class Program
                     break;
 
                 case 4:
+                    Console.WriteLine("\nAccensione dispositivi:");
                     foreach (DispositivoElettronico d in dispositivi)
                     {
                         d.Accendi();
@@ -123,6 +124,7 @@ public class Program
                     break;
 
                 case 5:
+                    Console.WriteLine("\nSpegnimento dispositivi:");
                     foreach (DispositivoElettronico d in dispositivi)
                     {
                         d.Spegni();
