@@ -5,7 +5,7 @@ public sealed class Singleton_Logger
     private static Singleton_Logger _instance;
     private Singleton_Logger() { }
 
-    private List<string> Logs = new List<string>();
+    private List<string> _logs = new List<string>();
 
     public static Singleton_Logger Instance
     {
@@ -21,12 +21,12 @@ public sealed class Singleton_Logger
 
     public void Log(string message)
     {
-        Logs.Add(message);
+        _logs.Add(message);
     }
 
     public void PrintLogs()
     {
-        foreach (string log in Logs)
+        foreach (string log in _logs)
         {
             Console.WriteLine(log);
         }
