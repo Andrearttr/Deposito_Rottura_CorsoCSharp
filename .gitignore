@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/2025-05-27/Singleton/bin
+/2025-05-27/Singleton/obj
+/2025-05-27/Esercizio1Singleton/obj
+/2025-05-27/Esercizio1Singleton/bin
