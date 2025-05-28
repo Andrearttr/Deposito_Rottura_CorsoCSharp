@@ -73,37 +73,25 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        bool exit = false;
-        
-        while (!exit)
-        {
-            Console.WriteLine("\nMenù");
-            Console.WriteLine("[1] Crea Veicolo");
-            Console.WriteLine("[0] Esci");
-            Console.Write("Scelta: ");
-            int menuAction = Input.Int(0, 1);
-        
-            switch (menuAction)
-            {
-                case 1:
-                    Console.Write("\nVeicolo da creare (auto, moto, camion): ");
-                    string tipo = Input.String();
-                    IVeicolo veicolo = VeicoloFactory.CreaVeicolo(tipo);
-                    if (veicolo != null)
-                    {
-                        veicolo.Avvia();
-                        veicolo.MostraTipo();
-                    }
-                    else
-                    {
-                        Console.WriteLine("Veicolo non valido");
-                    }
-                    break;
+        Menu menu = new Menu();
+        Console.Write("\nInserisci tipo (auto, moto, camion): ");
+        string tipo = Input.String();
+        menu.Seleziona(tipo);
+    }
+}
 
-                case 0:
-                    exit = true;
-                    break;
-            }
+public class Menu
+{
+    public void Seleziona(string tipo) {
+        IVeicolo veicolo = VeicoloFactory.CreaVeicolo(tipo);
+        if (veicolo != null)
+        {
+            veicolo.Avvia();
+            veicolo.MostraTipo();
+        }
+        else
+        {
+            Console.WriteLine("Veicolo non valido");
         }
     }
 }
