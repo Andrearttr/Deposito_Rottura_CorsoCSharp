@@ -27,7 +27,7 @@ public sealed class NewsAgency : ISubject
             return _instance;
         }
     }
-    
+
     private readonly List<IObserver> observers = new List<IObserver>();
     public void Attach(IObserver observer)
     {
@@ -45,6 +45,12 @@ public sealed class NewsAgency : ISubject
         {
             observer.Update(notizia);
         }
+    }
+
+    public void InviaNotizia(string notizia)
+    {
+        Console.WriteLine("\nNotizia inviata.");
+        Notify(notizia);
     }
 }
 
@@ -69,11 +75,16 @@ public class Program
     public static void Main(string[] args)
     {
         var newsAgency = NewsAgency.Instance;
+        var newsAgency2 = NewsAgency.Instance;
+
         var mobileApp = new MobileApp();
         var emailClient = new EmailClient();
 
         newsAgency.Attach(mobileApp);
         newsAgency.Attach(emailClient);
+
+        Console.WriteLine(newsAgency.GetHashCode());
+        Console.WriteLine(newsAgency2.GetHashCode());
 
         bool exit = false;
         
@@ -88,10 +99,9 @@ public class Program
             switch (menuAction)
             {
                 case 1:
-                    Console.Write("Scrivi notizia: ");
+                    Console.Write("\nScrivi notizia: ");
                     string notizia = Input.String();
-                    Console.WriteLine(" ");
-                    newsAgency.Notify(notizia);
+                    newsAgency.InviaNotizia(notizia);
                     break;
 
                 case 0:
