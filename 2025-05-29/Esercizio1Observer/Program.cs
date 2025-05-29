@@ -54,6 +54,14 @@ public class DisplayMobile : IObserver
     }
 }
 
+public class DisplayAuto : IObserver
+{
+    public void Aggiorna(string messaggio)
+    {
+        Console.WriteLine($"DisplayAuto: {messaggio}");
+    }
+}
+
 public class Program
 {
     public static void Main(string[] args)
@@ -61,20 +69,20 @@ public class Program
         var centroMeteo = new CentroMeteo();
         var displayConsole = new DisplayConsole();
         var displayMobile = new DisplayMobile();
-
-        centroMeteo.Registra(displayConsole);
-        centroMeteo.Registra(displayMobile);
+        var displayAuto = new DisplayAuto();
 
         bool exit = false;
-        
+
         while (!exit)
         {
             Console.WriteLine("\nMenù");
             Console.WriteLine("[1] Aggiorna meteo");
+            Console.WriteLine("[2] Aggiungi display");
+            Console.WriteLine("[3] Rimuovi display");
             Console.WriteLine("[0] Esci");
             Console.Write("Scelta: ");
-            int menuAction = Input.Int(0, 1);
-        
+            int menuAction = Input.Int(0, 3);
+
             switch (menuAction)
             {
                 case 1:
@@ -82,7 +90,55 @@ public class Program
                     string dati = Input.String();
                     centroMeteo.AggiornaMeteo(dati);
                     break;
-        
+
+                case 2:
+                    Console.Write("\nScegli display da aggiungere (console, mobile, auto): ");
+                    string tipo = Input.String();
+
+                    switch (tipo)
+                    {
+                        case "console":
+                            centroMeteo.Registra(displayConsole);
+                            break;
+
+                        case "mobile":
+                            centroMeteo.Registra(displayMobile);
+                            break;
+
+                        case "auto":
+                            centroMeteo.Registra(displayAuto);
+                            break;
+
+                        default:
+                            Console.WriteLine("Display non valido.");
+                            break;
+                    }
+                    break;
+
+                case 3:
+                    Console.Write("\nScegli display da rimuovere (console, mobile, auto): ");
+                    tipo = Input.String();
+
+                    switch (tipo)
+                    {
+                        case "console":
+                            centroMeteo.Rimuovi(displayConsole);
+                            break;
+
+                        case "mobile":
+                            centroMeteo.Rimuovi(displayMobile);
+                            break;
+
+                        case "auto":
+                            centroMeteo.Rimuovi(displayAuto);
+                            break;
+
+                        default:
+                            Console.WriteLine("Display non valido.");
+                            break;
+                    }
+                    break;
+
                 case 0:
                     exit = true;
                     break;
