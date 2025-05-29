@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio1Observer", "Eserc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio2Observer", "Esercizio2Observer\Esercizio2Observer.csproj", "{4173FCAB-FEF9-4F31-9FF6-AC101A42D2BB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Esercizio3Observer", "Esercizio3Observer\Esercizio3Observer.csproj", "{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{4173FCAB-FEF9-4F31-9FF6-AC101A42D2BB}.Release|x64.Build.0 = Release|Any CPU
 		{4173FCAB-FEF9-4F31-9FF6-AC101A42D2BB}.Release|x86.ActiveCfg = Release|Any CPU
 		{4173FCAB-FEF9-4F31-9FF6-AC101A42D2BB}.Release|x86.Build.0 = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|x64.Build.0 = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Debug|x86.Build.0 = Debug|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|x64.ActiveCfg = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|x64.Build.0 = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|x86.ActiveCfg = Release|Any CPU
+		{327A18EF-1C0E-420A-B3D8-E8B1DF14E9CA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
