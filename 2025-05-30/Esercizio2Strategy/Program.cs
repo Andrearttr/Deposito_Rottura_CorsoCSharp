@@ -186,6 +186,10 @@ public class Program
                     Console.Write("\nScegli il tipo di piatto (pizza, hamburger, insalata): ");
                     string tipo = Input.String();
                     piatto = PiattoFactory.Crea(tipo);
+                    if (piatto == null)
+                    {
+                        break;
+                    }
                     piatto = DecorationMenu(piatto);
 
                     Console.WriteLine("\nScegli il metodo di cottura");
