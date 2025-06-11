@@ -257,3 +257,167 @@ group by
 having 
 	rental_times = 0
 ;
+
+-- --------------------------
+-- ESERCIZI AVANZATI
+-- --------------------------
+
+select
+	flm.title,
+    cat.name as category,
+    sum(pay.amount) as total_rental_revenue
+from
+	film flm
+join
+	film_category flmcat on flm.film_id = flmcat.film_id
+join
+	category cat on cat.category_id = flmcat.category_id
+join
+	inventory inv on flm.film_id = inv.film_id
+join
+	rental rnt on rnt.inventory_id = inv.inventory_id
+join 
+	payment pay on pay.rental_id = rnt.rental_id
+group by
+	flm.title,
+    cat.name
+order by
+	total_rental_revenue desc
+;
+
+select
+	concat(act.first_name, " ", act.last_name) as actor,
+    group_concat(distinct cat.name separator ", ") as categories_played
+from
+	actor act
+join 
+	film_actor flmact on flmact.actor_id = act.actor_id
+join
+	film flm on flm.film_id = flmact.film_id
+join
+	film_category flmcat on flmcat.film_id = flm.film_id
+join
+	category cat on cat.category_id = flmcat.category_id
+group by
+	actor
+having
+	locate("action", categories_played) = 0
+order by
+	categories_played
+;
+
+select
+	cat.name,
+    count(act.actor_id) / count(distinct flm.film_id) as average_actors_per_film
+from
+	actor act
+join 
+	film_actor flmact on flmact.actor_id = act.actor_id
+    
+join
+	film flm on flm.film_id = flmact.film_id
+join
+	film_category flmcat on flmcat.film_id = flm.film_id
+join
+	category cat on cat.category_id = flmcat.category_id
+group by
+	cat.name
+order by
+	average_actors_per_film desc
+;
+
+-- ------------------------
+-- ESERCIZI AVANZATI 2
+-- ------------------------
+
+-- Clienti con più di 20 noleggi totali, ordinati per spesa totale decrescente
+select
+	cust.customer_id,
+    cust.first_name,
+    cust.last_name,
+    count(rent.rental_id) as rentals,
+    sum(pay.amount) as total_spending
+from 
+	customer cust
+join
+	rental rent on rent.customer_id = cust.customer_id
+join
+	payment pay on pay.rental_id = rent.rental_id
+group by
+	cust.customer_id,
+    cust.first_name,
+    cust.last_name
+having
+	rentals > 20
+order by
+	total_spending desc
+;
+
+-- Numero medio di noleggi per categoria di film
+select
+	cat.name,
+    count(rent.rental_id) / count(distinct film.film_id) as average_rentals,
+    count(rent.rental_id) as total_rentals
+from 
+	category cat
+join
+	film_category filmcat on cat.category_id = filmcat.category_id
+join
+	film on film.film_id = filmcat.film_id
+join
+	inventory inv on inv.film_id = film.film_id
+join
+	rental rent on rent.inventory_id = inv.inventory_id
+group by
+	cat.name
+having 
+	total_rentals > 50
+order by
+	average_rentals desc
+;
+
+-- Attori con più film a catalogo e noleggi totali
+select
+	act.first_name,
+	act.last_name,
+    count(distinct inv.film_id) as starring_in,
+	count(distinct rent.rental_id) as rentals
+from
+	actor act
+join
+	film_actor filmact on filmact.actor_id = act.actor_id
+join
+	film on film.film_id = filmact.film_id
+join
+	inventory inv on inv.film_id = film.film_id
+join
+	rental rent on rent.inventory_id = inv.inventory_id
+group by
+	act.actor_id
+having
+	 starring_in >= 10
+order by
+	rentals desc
+;
+
+-- Categorie più "redditizie" per spesa totale media per film
+select
+	cat.name,
+    sum(pay.amount) / count(distinct film.film_id) as revenue_per_film
+from 
+	category cat
+join
+	film_category filmcat on filmcat.category_id = cat.category_id
+join
+	film on film.film_id = filmcat.film_id
+join
+	inventory inv on inv.film_id = film.film_id
+join
+	rental rent on rent.inventory_id = inv.inventory_id
+join
+	payment pay on pay.rental_id = rent.rental_id
+group by
+	cat.name
+order by
+	revenue_per_film desc
+;
