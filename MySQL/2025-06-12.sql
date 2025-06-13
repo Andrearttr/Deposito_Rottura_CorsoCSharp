@@ -192,4 +192,5 @@ join
 	pagamento p on p.utente_id = u.utente_id
 join
 	ordine o on o.utente_id = u.utente_id
-    
+;
+
